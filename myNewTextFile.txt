@@ -6,3 +6,7 @@ Sharon's change
 
 An awesome change in the branch
 
+
+A third change
+
+this is Ingvild's change
