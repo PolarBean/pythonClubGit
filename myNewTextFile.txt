@@ -7,3 +7,5 @@ A third change
 
 An awesome change
 
+An awesome change in the branch
+
