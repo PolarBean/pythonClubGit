@@ -2,6 +2,4 @@ Hello Everyone
 
 A second change
 
-My fancy new feature. 
-
-A third big change
+A third change
